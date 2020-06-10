@@ -4,6 +4,7 @@ title: Run Jekyll without errors
 step: 5
 ---
 
+***
 ## No BOM allowed
 
 If there are `BOM` header characters in your UTF-8-encoded files, Jekyll will break. Make sure there are none.
